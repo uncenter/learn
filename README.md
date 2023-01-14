@@ -1,4 +1,4 @@
-# Mini projects to learn languages like C++, Rust, and Python
+# Projects to learn new languages
 
 ## Beginner
 
