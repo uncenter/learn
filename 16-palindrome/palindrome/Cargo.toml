@@ -1,7 +1,0 @@
-[package]
-name = "palindrome"
-version = "0.1.0"
-authors = ["James Tease <james@jamestease.co.uk>"]
-
-[dependencies]
-regex = "0.1"
