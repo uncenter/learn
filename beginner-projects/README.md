@@ -1,5 +1,3 @@
-# Projects to learn new languages
-
 ## Beginner
 
 1. [ ] Write a program which finds the factorial of a number entered by the user. (check for all conditions).
