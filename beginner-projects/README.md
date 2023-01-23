@@ -45,8 +45,10 @@
 17. [ ] Write a program that allows you to input students' midterm, final and homework scores, and calculate a weighted score. Use the following weights: 20% midterm, 40% final, 40% median homework.
 
 ## Intermediate
-
+17. [ ] Write a program to solve a sudoku puzzle (https://youtu.be/8ext9G7xspg?t=6715)
+18. [ ] Command line version of Minesweeper (https://youtu.be/8ext9G7xspg?t=5236)
 18. [ ] Simple file encryption (using something simple like ROT13).
+19. [ ] [An *actual* password generator](https://www.youtube.com/watch?v=DLn3jOsNRVE&t=4190s)
 19. [ ] Write a program which will print all the pairs of prime numbers whose sum equals the number entered by the user. Eg 10 = 5 + 5, 7 + 3; 12 = 11 + 1, 5 + 7
 20. [ ] Write a quiz which retrieves a question and answer from a file. Allow the user to take the quiz, count points total and show score.
 21. [ ] Write a Wordle solver (Extra: Add a GUI).
@@ -57,10 +59,12 @@
 26. [ ] Create a program that implements a database. The fields are hard-coded, and the data is saved in a binary file. Although this isn't really flexibility, you aren't relying on any external libraries or functions.
 27. [ ] Create a command-line todo list. Users should be able to add, complete and delete items. Bonus: use a database (eg SQLite) to persist todo items between program runs.
 
+
 ## Expert
 
-- [ ] Write a program which acts like a personal planner. A user can input an event, note things to-do on a certain date.
-28. [ ] Make a Markov chain generator. Read text from a source, create a histogram and allow different prefix lengths. See [Think Python](http://greenteapress.com/thinkpython2/html/thinkpython2014.html#sec159) for info.
+27. [ ] Photo manipulation (https://youtu.be/8ext9G7xspg?t=7535) (Extra: add GUI)
+28. [ ] Write a program which acts like a personal planner. A user can input an event, note things to-do on a certain date.
+28. [ ] Make a Markov chain generator. Read text from a source, create a histogram and allow different prefix lengths. See [Think Python](http://greenteapress.com/thinkpython2/html/thinkpython2014.html#sec159 or https://youtu.be/8ext9G7xspg?t=9109) for info.
 29. [ ] Noughts and crosses game.
 30. [ ] Create a Youtube video downloader
 31. [ ] Write an OS (https://os.phil-opp.com/)
@@ -72,7 +76,7 @@
 - [ ] Create a chess game.
 - [ ] Make a webpage or application.
 - [ ] Write a Twitter bot.
-- [ ] Create a binary tree which has search and sorting functions.
+- [ ] Create a binary tree which has search and sorting functions. (https://youtu.be/8ext9G7xspg?t=4553)
 - [ ] Create a Quine, (a program that prints out its own source code).
 - [ ] Write a custom text editor.
 - [ ] [C++] Implement your own `strstr`.
