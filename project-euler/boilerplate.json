@@ -1,0 +1,24 @@
+{
+	"Boilerplate [Project Euler]":
+	{
+		"prefix" : "!boilerplate.projecteuler",
+				"body" : [
+					"# ----- Problem ----- #",
+					"#",
+					"",
+					"# ",
+					"",
+					"# ----- Result ----- #",
+					"# Answer: ",
+					"# Time: __ms",
+					"# Tries: ",
+					"",
+					"# ----- Code ----- #",
+					"",
+					"",
+					"",
+					"# print()"
+				],
+				"description" : "Boilerplate for Project Euler"
+	}
+}

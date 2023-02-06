@@ -43,5 +43,5 @@ def largest_prime_factor(num):
             break
     return prime_factors
 
-print(list_factors(13195))
+# print(list_factors(13195))
 print(largest_prime_factor(13195))
