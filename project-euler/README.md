@@ -6,7 +6,7 @@ I am starting with Python for now, but I will try to solve the problems in other
 
 - [x] Problem 1: [Multiples of 3 and 5](https://projecteuler.net/problem=1)
 - [x] Problem 2: [Even Fibonacci numbers](https://projecteuler.net/problem=2)
-- [ ] Problem 3: [Largest prime factor](https://projecteuler.net/problem=3)
+- [x] Problem 3: [Largest prime factor](https://projecteuler.net/problem=3)
 - [ ] Problem 4: [Largest palindrome product](https://projecteuler.net/problem=4)
 - [ ] Problem 5: [Smallest multiple](https://projecteuler.net/problem=5)
 - [ ] Problem 6: [Sum square difference](https://projecteuler.net/problem=6)

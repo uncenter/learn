@@ -6,7 +6,7 @@
 
 # ----- Result ----- #
 # Answer: 233168
-# Time: 0.212976ms
+# Time: 0.1436876ms
 # Tries: 2
 # ->  First Answer: 266333
 #     - Forgot to break out of the inner loop, multiples of both 3 and 5 were being added twice.
@@ -14,13 +14,13 @@
 #     - Added break statement to inner loop (l.22),
 
 # ----- Result ----- #
-def sum_of_multiples(limit, *multiples):
+def main(limit, *multiples):
     sum = 0
     for i in range(limit):
         for n in multiples:
             if i % n == 0:
                 sum += i
                 break
-    return sum
+    print(sum)
 
-print(sum_of_multiples(1000, 3, 5))
+main(1000, 3, 5)

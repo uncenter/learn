@@ -14,10 +14,10 @@
 					"# Tries: ",
 					"",
 					"# ----- Code ----- #",
+					"def main():",
+					"\tprint()",
 					"",
-					"",
-					"",
-					"# print()"
+					"# main()"
 				],
 				"description" : "Boilerplate for Project Euler"
 	}

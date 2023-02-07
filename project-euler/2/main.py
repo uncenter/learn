@@ -7,18 +7,18 @@
 
 # ----- Result ----- #
 # Answer: 4613732
-# Time: 0.060892ms
+# Time: 0.0688198ms
 # Tries: 1
 
 # ----- Code ----- #
-def even_fibonacci_nums(limit):
+def main(num):
     sum = 0
     a, b = 0, 1
-    while b < limit:
+    while b < num:
         a, b = b, a + b
         if b % 2 == 0:
             sum += b
-    return sum
+    print(sum)
 
 
-print(even_fibonacci_nums(4000000))
+main(4000000)

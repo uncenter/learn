@@ -9,7 +9,8 @@
 # Tries: 
 
 # ----- Code ----- #
+def main():
+    print()
 
 
-
-# print()
+# main()
